@@ -63,7 +63,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact me at [yadavgaurv2003@gmail.com].
-
----
-
-Is template ko apne project ke details ke saath modify karein aur GitHub repository me README file me shamil karein. Ensure karein ki `[yourusername]` aur `[your-email@example.com]` ko apne actual GitHub username aur email se replace karein.
